@@ -1,7 +1,7 @@
 # КуРус - идеальный самолёт-тренер до 150г!
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-![alt text](https://github.com/YuRa-Aero/Ku-6-FPV-Plane/blob/media/photo_3_2026-04-10_23-27-28.jpg?raw=true)
+![alt text](https://github.com/YuRa-Aero/Kurus/blob/main/media/photo_3_2026-04-10_23-27-28.jpg?raw=true)
 
 Самолет подходит для полётов в зале и на улице. Он легко собиарется из 5 частей и имеет возможность установки FPV и полетного контроллера от вупов
 
